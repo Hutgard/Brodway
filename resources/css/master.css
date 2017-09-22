@@ -1,0 +1,45 @@
+body{
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.testa{
+  /*background-image: url("./image/the-flatiron-building.png");*/
+  background-image: url("/projects/Brodway/resources/image/the-flatiron-building.png");
+  font-size: 40px;
+}
+
+.testa, .footer, .menu, a, #copy, #design{
+  color: white;
+}
+
+.menu {
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.footer{
+  font-size: 18px;
+  background-color: dimgray;
+}
+
+#design{
+  background-image: url("/projects/Brodway/resources/image/the-flatiron-building.png");
+  font-size: 23px;
+}
+#copy{
+  font-size: 11px;
+}
+
+h2{
+  font-size: 32px;
+}
+h3{
+  font-size: 23px;
+}
+
+.corpo{
+  font-size: 14px;
+  font-weight: normal;
+}
