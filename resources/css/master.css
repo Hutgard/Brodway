@@ -4,22 +4,22 @@ body{
   text-align: center;
 }
 
-.testa{
+header{
   /*background-image: url("./image/the-flatiron-building.png");*/
   background-image: url("/projects/Brodway/resources/image/the-flatiron-building.png");
   font-size: 40px;
 }
 
-.testa, .footer, .menu, a, #copy, #design{
+header, footer, a, #copy, #design{
   color: white;
 }
 
-.menu {
+nav {
   font-size: 18px;
   font-weight: normal;
 }
 
-.footer{
+footer{
   font-size: 18px;
   background-color: dimgray;
 }
@@ -28,6 +28,7 @@ body{
   background-image: url("/projects/Brodway/resources/image/the-flatiron-building.png");
   font-size: 23px;
 }
+
 #copy{
   font-size: 11px;
 }
